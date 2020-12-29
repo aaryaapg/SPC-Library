@@ -1,0 +1,9 @@
+name= SPC
+version= 1.0.0
+author= Aaryaa Padhyegurjar <aaryaapg@gmail.com>
+maintainer= Aaryaa Padhyegurjar <aaryaapg@gmail.com>
+sentence= A library for easy processing of Analog Signals
+paragraph= This library is signal conditioning, where an Analog input is to be analyzed. The analog signal is converted into a square wave based on the threshold value given by the user, and positive edges are counted.
+category= Signal Conditioning
+url= https://github.com/aaryaapg/SPC-Library
+includes= SPC.h
