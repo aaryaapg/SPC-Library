@@ -1,0 +1,12 @@
+# -----------------------------------------
+# Syntax colouring for SPC library
+# -----------------------------------------
+
+# Datatypes (such as objects)
+SPC	KEYWORD1
+
+#Methods / functions
+SPC_getSquare	KEYWORD2
+SPC_getCount    KEYWORD2
+
+# Constants
