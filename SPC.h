@@ -18,7 +18,7 @@ class SPC {
     int SPC_getCount(int CURRENT_SQUARE_STATE);
     
   private:
-    //Private variables accessible only in 
+    //Private variables accessible only inside CPP function
     int LAST_SENSOR_STATE = LOW;   //sensor's previous state
     int SQUARE_STATE = 0; //Converting analog waveform into square waveform w.r.t threshold
     int LAST_SQUARE_STATE = LOW;
