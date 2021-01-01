@@ -1,5 +1,9 @@
+/*
+This example uses an analog signal from a Force Sensitive Resistor, with a threshold value of 200.
+*/
+
 #include <SPC.h>
-int fsrRaw;
+int fsrRaw; //Input value from Force Sensitive Resistor
 int Sq;
 int Count;
 
