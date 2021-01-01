@@ -11,7 +11,7 @@ int y = SPC_getCount(int CURRENT_SQUARE_STATE);
 CURRENT_SQUARE_STATE _can be determined using the SPC_getSquare function, or any other square wave can be used._
 
 ### This image shows the raw value of an analog signal along with the threshold given by the user.
-![Alt Text](E:\NodeMCU Projects\SPC Threshold and Raw Values.jpg)
+![Threshold](E:\NodeMCU Projects\SPC Threshold and Raw Values.jpg)
 
 # References
 1. http://www.sensingthecity.com/force-sensor-peak-detection/
