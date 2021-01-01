@@ -12,6 +12,8 @@ CURRENT_SQUARE_STATE _can be determined using the SPC_getSquare function, or any
 
 ### This image shows the raw value of an analog signal along with the threshold given by the user.
 ![Threshold](https://github.com/aaryaapg/SPC-Library/blob/main/Examples/SPC%20Threshold%20and%20Raw%20Values.jpg)
+### This image shows a square wave that was generated with respect to any Analog signal and the given threshold.
+![Square](https://github.com/aaryaapg/SPC-Library/blob/main/Examples/SPC%20Counts%20and%20Square%20Wave.jpg)
 
 # References
 1. http://www.sensingthecity.com/force-sensor-peak-detection/
