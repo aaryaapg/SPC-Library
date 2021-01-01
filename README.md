@@ -10,9 +10,12 @@ _The threshold needs to be given by the user based on the sensor being used and 
 int y = SPC_getCount(int CURRENT_SQUARE_STATE);
 CURRENT_SQUARE_STATE _can be determined using the SPC_getSquare function, or any other square wave can be used._
 
+### This image shows the raw value of an analog signal along with the threshold given by the user.
+![Alt Text](E:\NodeMCU Projects\SPC Threshold and Raw Values.jpg)
+
 # References
 1. http://www.sensingthecity.com/force-sensor-peak-detection/
 2. https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/lab-sensor-change-detection/
 
->Release Date: 29/12/2020
+>Release Date: 29/12/2020, 
 >Author: Aaryaa Padhyegurjar
